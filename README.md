@@ -1,2 +1,2 @@
 # isulalifajri-resolusi
-Repository untuk menyimpan rencana isulalifajri kedepannya
+Repository untuk menyimpan rencana saya kedepannya
