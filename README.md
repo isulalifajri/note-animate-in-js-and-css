@@ -1,2 +1,2 @@
-# isulalifajri-resolusi
-Repository untuk menyimpan rencana saya kedepannya
+# not animate
+a note learn animate with js css and jquery
